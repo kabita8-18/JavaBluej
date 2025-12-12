@@ -55,3 +55,17 @@ public class RickshawFare
         System.out.println("--------");
         }
 }
+
+
+
+
+
+
+
+
+
+
+
+int number =10;
+string result =(number%2==0)? "Even": "Odd" ;
+System.out.print(result);
